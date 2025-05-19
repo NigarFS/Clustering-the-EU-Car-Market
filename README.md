@@ -13,7 +13,7 @@ All files found in the "Code_and_Supplemental_Material"-section have been run as
 	- The file ending in "-Cleaning_finalized.R" shows the procedure used to do almost all cleaning
 	- We only had to the splitting into the year/country-subsets outside of our file.
 	  Since the cloud-server we were using early on was limited in memory as well, we abandonded that approach.
-	  The splitting was then done with the help of Dr. Dannemann, since his computer was powerful enough.
+	  The splitting was then done with the help of Dr. Dannemann.
 	  Other than this step everything has been done without external help.
 
 The cleaned data can be found in the "Data"-section.
