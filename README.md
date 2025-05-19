@@ -21,7 +21,7 @@ The cleaned data can be found in the "Data"-section.
 All results can be found in the "Results"-Section:
 	
 	- Each country has a dedicated subdirectory
-	- We present Dendrograms and Scree Plots for every country-year-combination
+	- Dendrograms and Scree Plots are presented for every country-year-combination
 	- The results of the K-means clustering can be found in the .xlsx-file in each country's subdirectory
 
 The countries are named abbreviated the following:
